@@ -1,0 +1,15 @@
+
+.line11,
+.line12 {
+font-size: 28px;
+font-family: Helvetica, "Times New Roman";
+}
+
+.line11 {
+    background-color: black;
+    color: white; 
+}
+
+.line12 {
+    background-color: yellow ;
+}
